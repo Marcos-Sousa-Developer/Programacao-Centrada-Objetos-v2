@@ -3,7 +3,7 @@
 </p>
 
 # <h1 align="center">Sistema Solar</h3>
-<h4 align="center">Projeto para a cadeira de Programação Centrada a Objetos (Parte1) (2021/2022)</h5>
+<h4 align="center">Projeto para a cadeira de Programação Centrada a Objetos (Parte2) (2021/2022)</h5>
 
 <hr>
 
