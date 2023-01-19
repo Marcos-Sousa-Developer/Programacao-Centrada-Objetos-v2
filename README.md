@@ -8,7 +8,7 @@
 <hr>
 
 # Objetivo
-Nesta	segunda fase	do	projeto vão	exercitar,	para	além	das	matérias	já	exercitadas	na	 Fase1, as	 seguintes	matérias	 lecionadas	 em	PCO:	 construção	 de	 classes	 que definem	tipos	de	dados,	relação	cliente/fornecedor	entre	classes,	o	interface e	a	classe genéricos	 List e ArrayList, enumerados,	 métodos/atributos	 de	instância	e	de	classe. 
+Nesta	segunda fase	do	projeto é exercitado,	para	além	das	matérias	já	exercitadas	na	 Fase1, as	 seguintes	matérias	 lecionadas	 em	PCO:	 construção	 de	 classes	 que definem	tipos	de	dados,	relação	cliente/fornecedor	entre	classes,	o	interface e	a	classe genéricos	 List e ArrayList, enumerados,	 métodos/atributos	 de	instância	e	de	classe. 
 
 #### **Run it on terminal or open the code and test it** 
 ```bash
